@@ -32,7 +32,7 @@ Installed `uv` CLI on Windows: `irm https://astral.sh/uv/install.ps1 | iex` → 
 - Lyrics file: `lyrics.txt` used for MiniMax testing
 
 ## YouTube / GitHub Links
-- YouTube: [Upload Lyria music track]  
-- GitHub repo: [Your public TRP1 repo link]
+- YouTube: Video generation attempted but failed. 
+- GitHub repo: https://github.com/Addisu-Taye/TRP-1-AI-Content-Generation-Challeng
 
 **Notes:** Music generation succeeded. Video generation attempted but failed. All commands, prompts, and troubleshooting are documented. Submission demonstrates exploration, persistence, and understanding of the codebase.
