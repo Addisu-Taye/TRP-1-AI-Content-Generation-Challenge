@@ -1,6 +1,6 @@
 # TRP1 - AI-Content Generation Challenge Submission
 
-**Candidate:** Addisu Taye Dadi
+**Candidate:** Addisu Taye
 
 ## Environment Setup
 Installed `uv` CLI on Windows: `irm https://astral.sh/uv/install.ps1 | iex` → `uv --version`. Navigated to project folder and copied `.env.example` to `.env`. Synced project: `uv sync`. Verified installation: `uv run ai-content --help`, `uv run ai-content list-providers`, `uv run ai-content list-presets`. Outcome: CLI functional; environment ready.
