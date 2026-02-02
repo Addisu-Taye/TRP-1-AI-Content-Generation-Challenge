@@ -48,8 +48,8 @@ uv.lock
 .DS_Store
 
 # === Generated Content (large files) ===
-output/
-exports/
+
+
 data/
 *.mp3
 *.mp4
